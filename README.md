@@ -82,3 +82,7 @@ Public License. aakar is developed based on the glyphs of Padma, which in turn
 is based on Akruti.
 
 See [LICENSE](https://github.com/kartikm/fonts-aakar/blob/master/LICENSE) file for full license text.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/samyakbhuta/fonts-aakar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
